@@ -16,4 +16,6 @@ The schema includes the following tables:
 - **`product_variation`**: Combines color and size options for products.
 - **`product_item`**: Final purchasable stock keeping units (SKUs) with inventory tracking.
 
+## ERD
 
+![Entity Relationship Diagram](ERD.png)
